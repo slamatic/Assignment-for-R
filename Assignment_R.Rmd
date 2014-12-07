@@ -15,7 +15,6 @@ fibonacciSeq()
 fibonacciSeq(20)
 fibonacciSeq(-1)
 fibonacciSeq(51)
-![terminalimage](install_in_terminal.png)
 ```
 
 ```{r, echo=FALSE}
