@@ -1,0 +1,9 @@
+* installing *source* package ‘FibonacciSeq’ ...
+** R
+** preparing package for lazy loading
+Error in loadNamespace(package, c(which.lib.loc, lib.loc)) : 
+  cyclic namespace dependency detected when loading ‘FibonacciSeq’, already loading ‘FibonacciSeq’
+Error : package or namespace load failed for ‘FibonacciSeq’
+Error : unable to load R code in package ‘FibonacciSeq’
+ERROR: lazy loading failed for package ‘FibonacciSeq’
+* removing ‘/home/sam/Bioinformatics/IntroProgram/GNBF5010-11/FibonacciSeq.Rcheck/FibonacciSeq’

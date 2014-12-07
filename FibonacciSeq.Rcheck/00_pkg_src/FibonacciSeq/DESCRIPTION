@@ -1,0 +1,10 @@
+Package: FibonacciSeq
+Type: Package
+Title: R Assignment
+Version: 1.0
+Date: 2014-11-26
+Author: Lam Hon Sum
+Maintainer: Sam Lam <slamatic@yahoo.com>
+Description: R Assignment for MSc
+License: gitHub
+Packaged: 2014-11-26 23:36:33 UTC; sam
